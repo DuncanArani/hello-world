@@ -2,8 +2,7 @@
 
 ## Authors
 - [Daniel Muchiri](https://github.com/daydroidmuchiri)
-- Add your clickable username here. It should point to your GitHub account. 
-
+- [Duncan Arani] (https://github.com/DuncanArani/hello-world.git)
 ## Project setup instructions
 To start using this project use the following commands:
 
